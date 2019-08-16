@@ -1,0 +1,45 @@
+Dart
+Docs
+Platforms
+Community
+Try Dart
+Get Dart
+Dart 2.4.0 is live! For more information, see the change log.
+
+Dart is a client-optimized language for fast apps on any platform
+
+
+Optimized
+for UI
+Develop with a programming language specialized around the needs of user interface creation
+
+Productive
+development
+Make changes iteratively: use hot reload to see the result instantly in your running app
+
+Fast on all
+platforms
+Compile to ARM & x64 machine code for mobile, desktop, and backend. Or compile to JavaScript for the web
+
+Optimized for UI
+Mature and complete async-await for user interfaces containing event-driven code, paired with isolate-based concurrency
+A programming language optimized for building user interfaces with features such as the spread operator for expanding collections, and collection if for customizing UI for each platform
+A programming language that is easy to learn, with a familiar syntax
+
+
+
+Productive development
+Make changes to your source code iteratively, using hot reload to instantly see the effect in the running app
+Write code using a flexible type system with rich static analysis and powerful, configurable tooling
+Do profiling, logging, and debugging with your code editor of choice
+
+Fast on all platforms
+AOT-compile apps to native machine code for instant startup
+Target the web with complete, mature, fast compilers for JavaScript
+Run backend code supporting your app, written using a single programming language
+
+Try Dart in your browser
+
+
+Want more practice? Try a codelab. Or download Dart.
+Terms Security Privacy Site CC BY 3.0       
